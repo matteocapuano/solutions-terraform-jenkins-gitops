@@ -1,5 +1,5 @@
-project_id = "tutorialrocks"
+project_id = "kiaorarocks"
 environment = "dev"
-subnet1_region = "us-central1"
-subnet1_zone = "us-central1-a"
+subnet1_region = "europe-west8"
+subnet1_zone = "europe-west8-c"
 subnet1_cidr = "10.10.0.0/16"

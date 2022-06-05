@@ -16,7 +16,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "tutorialrocks-tfstate"
+    bucket = "kiaora-tfstate"
     prefix = "jenkins"
   }
 }

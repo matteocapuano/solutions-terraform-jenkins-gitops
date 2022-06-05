@@ -1,9 +1,9 @@
 
 
-project_id = "tutorialrocks"
-tfstate_gcs_backend = "tutorialrocks-tfstate"
-region = "us-east4"
-zones = ["us-east4-a"]
+project_id = "kiaorarocks"
+tfstate_gcs_backend = "kiaora-tfstate"
+region = "europe-west8"
+zones = ["europe-west8-c"]
 ip_range_pods_name = "ip-range-pods"
 ip_range_services_name = "ip-range-scv"
 network_name = "jenkins-network"
